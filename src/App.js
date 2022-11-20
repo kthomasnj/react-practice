@@ -1,8 +1,8 @@
 import React from 'react';
-import Nav from './components/Nav';
+import Home from './pages/Home';
 
 function App() {
-  return <Nav />;
+  return <Home />;
 }
 
 export default App;
